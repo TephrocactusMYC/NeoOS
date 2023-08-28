@@ -301,4 +301,4 @@ That's it.
 # 获奖信息
 大赛官网[公示](https://os.educg.net/#/index?TYPE=OS_G)
 
-
+![获奖截图](./获奖信息.png)
