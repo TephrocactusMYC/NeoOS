@@ -297,3 +297,8 @@ rustup component add rust-src llvm-tools-preview --toolchain `cat rust-toolchain
 ```
 
 That's it.
+
+# 获奖信息
+大赛官网[公示](https://os.educg.net/#/index?TYPE=OS_G)
+
+
